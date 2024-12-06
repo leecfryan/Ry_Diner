@@ -1,0 +1,50 @@
+# OS-generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Logs and databases #
+######################
+*.log
+*.sqlite3
+
+# Python-related files #
+########################
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+# Node.js-related files #
+#########################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build files #
+###############
+dist/
+build/
+*.o
+*.out
+*.class
+
+# IDE and editor settings #
+###########################
+.vscode/
+.idea/
+*.swp
+
+# Environment-specific #
+########################
+.env
+*.key
+*.pem
+
+# Other #
+#########
+*.bak
+*.tmp
+*.old
